@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 <!-- ## [Unreleased] -->
 
+## [2.10.0] - 2020-03-04
+
+- Updated color names to have metadata ([#111](https://github.com/Shopify/polaris-tokens/pull/111))
+
 ## [2.9.0] - 2020-03-03
 
 - Added Figma color name metadata ([#110](https://github.com/Shopify/polaris-tokens/pull/110))
